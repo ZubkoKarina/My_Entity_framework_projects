@@ -1,0 +1,13 @@
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.deps.json
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.runtimeconfig.json
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.runtimeconfig.dev.json
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.dll
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.pdb
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.csproj.AssemblyReference.cache
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.AssemblyInfoInputs.cache
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.AssemblyInfo.cs
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.csproj.CoreCompileInputs.cache
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.dll
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.pdb
+/home/karina/Документы/C# my rep./lesson_16/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.genruntimeconfig.cache
