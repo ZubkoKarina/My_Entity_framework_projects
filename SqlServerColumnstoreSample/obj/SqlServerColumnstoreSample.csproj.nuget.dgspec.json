@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karina/Документы/C# my rep./lesson_16/SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj": {}
+    "/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj": {}
   },
   "projects": {
-    "/home/karina/Документы/C# my rep./lesson_16/SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj": {
+    "/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karina/Документы/C# my rep./lesson_16/SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj",
+        "projectUniqueName": "/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj",
         "projectName": "SqlServerColumnstoreSample",
-        "projectPath": "/home/karina/Документы/C# my rep./lesson_16/SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj",
+        "projectPath": "/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/SqlServerColumnstoreSample.csproj",
         "packagesPath": "/home/karina/.nuget/packages/",
-        "outputPath": "/home/karina/Документы/C# my rep./lesson_16/SqlServerColumnstoreSample/obj/",
+        "outputPath": "/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karina/.nuget/NuGet/NuGet.Config"
@@ -38,16 +38,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.4.0, )"

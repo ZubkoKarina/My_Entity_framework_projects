@@ -1,0 +1,5 @@
+/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.csproj.AssemblyReference.cache
+/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.AssemblyInfoInputs.cache
+/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.AssemblyInfo.cs
+/home/karina/Документы/Entity_my_rep./SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.csproj.CoreCompileInputs.cache

@@ -34,6 +34,7 @@ namespace SqlServerColumnstoreSample
                     String sql = "DROP DATABASE IF EXISTS [SampleDB]; CREATE DATABASE [SampleDB]";
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
+                        command.CommandTimeout = 300; // Устанавливаем таймаут в 300 секунд (5 минут)
                         command.ExecuteNonQuery();
                         Console.WriteLine("Done.");
                     }
@@ -53,6 +54,7 @@ namespace SqlServerColumnstoreSample
                     sql = sb.ToString();
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
+                        command.CommandTimeout = 300; // Устанавливаем таймаут в 300 секунд (5 минут)
                         command.ExecuteNonQuery();
                         Console.WriteLine("Done.");
                     }
@@ -66,6 +68,7 @@ namespace SqlServerColumnstoreSample
                     sql = "CREATE CLUSTERED COLUMNSTORE INDEX columnstoreindex ON Table_with_5M_rows;";
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
+                         command.CommandTimeout = 300; // Устанавливаем таймаут в 300 секунд (5 минут)
                         command.ExecuteNonQuery();
                         Console.WriteLine("Done.");
                     }
